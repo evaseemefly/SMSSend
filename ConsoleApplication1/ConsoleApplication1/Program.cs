@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using System.Collections.Specialized;
 using SMSCloudHttpSend;
 using System.Xml;
+using System.Threading;
 
 namespace ConsoleApplication1
 {
@@ -59,7 +60,9 @@ namespace ConsoleApplication1
                     Console.WriteLine("发送内容如下：\n" + _sign + _smsContent + "\n");
                     Console.WriteLine("发送号码：\n" + _phones + "\n");
                 }
+                //Thread thread = new Thread(new ThreadStart(unicomports.sendPort));
                 portMsg = unicomports.sendPort(_account, _passWord, _phones, _smsId, _smsContent, _sign, _subCode, _sendTime, opTag);
+
                 Console.WriteLine("反馈信息：\n" + portMsg.strMsg + "\n");
                 Console.WriteLine("发送流程完毕( ^_^ )/~~拜拜" + "\n" + "---------------------------------------------------------\n");
             }

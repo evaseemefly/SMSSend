@@ -1,0 +1,9 @@
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\bin\Debug\UnicomPort.exe.config
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\bin\Debug\UnicomPort.exe
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\bin\Debug\UnicomPort.pdb
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\obj\Debug\UnicomPort.csprojResolveAssemblyReference.cache
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\obj\Debug\UnicomPort.exe
+E:\GIT\UnicomPort\UnicomPort\UnicomPort\obj\Debug\UnicomPort.pdb
+E:\03协同开发\短信\PMS\SMSSend\UnicomPort\UnicomPort\UnicomPort\UnicomPort\bin\Debug\UnicomPort.exe.config
+E:\03协同开发\短信\PMS\SMSSend\UnicomPort\UnicomPort\UnicomPort\UnicomPort\obj\Debug\UnicomPort.exe
+E:\03协同开发\短信\PMS\SMSSend\UnicomPort\UnicomPort\UnicomPort\UnicomPort\obj\Debug\UnicomPort.pdb
